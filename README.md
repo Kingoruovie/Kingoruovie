@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kingoruovie
 - 👀 I’m interested in Mathematics, Physics and Programming
-- 🌱 I’m currently learning Python(Competitve programming and Data Science), Web development
-- 💞️ I’m looking to collaborate on Artificial intelligence projects
+- 🌱 I’m currently hacking my way through Full Stack Web development (Python,JavaScript, React, HTML, CSS, SQL)
+- 💞️ i am looking to collaborate on frontend, backend projects and even more.
 - 📫 How to reach me ...oruovie@gmail.com
 
 <!---
